@@ -1,0 +1,22 @@
+{
+  "name": "solis-light",
+  "displayName": "solis-light",
+  "description": "Solis based color theme",
+  "version": "0.0.1",
+  "publisher": "echoyz",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solis Lite",
+        "uiTheme": "vs",
+        "path": "./themes/Solis Lite-color-theme.json"
+      }
+    ]
+  }
+}
