@@ -2,10 +2,10 @@
   "name": "solis-light",
   "displayName": "solis-light",
   "description": "Solis based color theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "echoyz",
   "engines": {
-    "vscode": "^1.102.0"
+    "vscode": "^1.99.0"
   },
   "categories": [
     "Themes"

@@ -52,7 +52,7 @@
 		"editorIndentGuide.activeBackground": "#efefef",
 		
 		"editorLineNumber.activeForeground": "#5e90ab",
-		"editorLineNumber.foreground": "#efefef",
+		"editorLineNumber.foreground": "#61656f",
 		
 		"editorOverviewRuler.border": "#f0f0f0",
 		
@@ -70,7 +70,7 @@
 		"input.background": "#f8f8f8",
 		"input.border": "#f0f0f0",
 		"input.foreground": "#61656f",
-		"input.placeholderForeground": "#efefef",
+		"input.placeholderForeground": "#61656f",
 		
 		"inputOption.activeBackground": "#5e90ab22",
 		"inputOption.activeBorder": "#5e90ab",
@@ -155,7 +155,7 @@
 		"tab.border": "#f0f0f0",
 		"tab.hoverBackground": "#f0f0f0",
 		"tab.inactiveBackground": "#f8f8f8",
-		"tab.inactiveForeground": "#efefef",
+		"tab.inactiveForeground": "#61656f",
 		"tab.unfocusedActiveBorder": "#eeeeee",
 		"tab.unfocusedActiveBorderTop": "#efefef",
 		"tab.unfocusedHoverBackground": "#f0f0f0",
@@ -187,13 +187,13 @@
 		"textLink.foreground": "#5e90ab",
 		"textPreformat.foreground": "#61656f",
 		"textPreformat.background": "#f0f0f0",
-		"textSeparator.foreground": "#efefef",
+		"textSeparator.foreground": "#61656f",
 		
 		"titleBar.activeBackground": "#f8f8f8",
 		"titleBar.activeForeground": "#61656f",
 		"titleBar.border": "#f0f0f0",
 		"titleBar.inactiveBackground": "#f0f0f0",
-		"titleBar.inactiveForeground": "#efefef",
+		"titleBar.inactiveForeground": "#61656f",
 		
 		"tree.indentGuidesStroke": "#f0f0f0",
 		"tree.inactiveIndentGuidesStroke": "#efefef",
